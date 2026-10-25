@@ -6,7 +6,7 @@
 
 **AI predictions. Industry promises. Scientific evidence. What actually happened.**
 
-[Website](https://cortist.com/) · [Reality Ledger](https://cortist.com/reality-ledger/) · [Open Research & Data](https://cortist.com/open-research/) · [Hugging Face](https://huggingface.co/cortist) · [Public Dataset](https://huggingface.co/datasets/cortist/reality-ledger)
+[Website](https://cortist.com/) · [Reality Ledger](https://cortist.com/reality-ledger/) · [Open Research & Data](https://cortist.com/open-research/) · [Hugging Face](https://huggingface.co/cortist) · [Public Dataset](https://huggingface.co/datasets/cortist/reality-ledger) · [Zenodo DOI](https://doi.org/10.5281/zenodo.23650580)
 
 </div>
 
@@ -24,6 +24,7 @@ Our coverage spans **AGI, superintelligence, AI safety, AI agents, jobs, medicin
 | --- | --- |
 | [**Reality Ledger**](https://cortist.com/reality-ledger/) | Source-linked records of AI claims, evidence, limitations, and follow-up questions. |
 | [**Reality Ledger Data (GitHub)**](https://github.com/cortist/reality-ledger-data) | Ten original v1 evidence snapshots, normalized JSONL, source provenance and checksums. |
+| [**Zenodo · Research Dataset v1.0**](https://doi.org/10.5281/zenodo.23650580) | Publicly archived, DOI-citable initial evidence snapshot; CC BY 4.0 for Cortist-owned material. |
 | [**What Changed?**](https://cortist.com/reality-ledger/changes/) | Dated evidence revisions, distinguished from earlier source events. |
 | [**AI Promise Tracker**](https://cortist.com/reality-ledger/promises/) | Track specific industry commitments and their supporting evidence. |
 | [**Evidence Watch**](https://cortist.com/reality-ledger/evidence-watch/) | Our approach to ongoing source monitoring and evidence updates. |
@@ -43,13 +44,14 @@ The [**Cortist Reality Ledger dataset on Hugging Face**](https://huggingface.co/
 
 **How to interpret these records:** An announcement is not the same as an independently verified outcome. Open questions remain open until relevant supporting evidence is available. Historical snapshots should remain traceable when assessments are updated.
 
-> Public access to Cortist data or links to third-party research does not automatically grant a license to redistribute underlying third-party materials or Cortist editorial content. Check applicable rights before reuse.
+> The original Cortist-owned material in the [v1.0 research dataset](https://github.com/cortist/reality-ledger-data/blob/main/LICENSE.md) is licensed under CC BY 4.0 with attribution. Linked third-party publications and other external materials are not sublicensed; no general reuse license is implied for unrelated Cortist website content.
 
 ## Find Cortist elsewhere
 
 - **Website:** [cortist.com](https://cortist.com/)
 - **Hugging Face:** [huggingface.co/cortist](https://huggingface.co/cortist)
 - **Reality Ledger Dataset:** [huggingface.co/datasets/cortist/reality-ledger](https://huggingface.co/datasets/cortist/reality-ledger)
+- **Zenodo Research Archive:** [10.5281/zenodo.23650580](https://doi.org/10.5281/zenodo.23650580)
 - **Research and partnership inquiries:** [Contact Cortist](https://cortist.com/contact/)
 
 ---
