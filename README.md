@@ -23,6 +23,7 @@ Our coverage spans **AGI, superintelligence, AI safety, AI agents, jobs, medicin
 | Project | What it offers |
 | --- | --- |
 | [**Reality Ledger**](https://cortist.com/reality-ledger/) | Source-linked records of AI claims, evidence, limitations, and follow-up questions. |
+| [**Reality Ledger Data (GitHub)**](https://github.com/cortist/reality-ledger-data) | Ten original v1 evidence snapshots, normalized JSONL, source provenance and checksums. |
 | [**What Changed?**](https://cortist.com/reality-ledger/changes/) | Dated evidence revisions, distinguished from earlier source events. |
 | [**AI Promise Tracker**](https://cortist.com/reality-ledger/promises/) | Track specific industry commitments and their supporting evidence. |
 | [**Evidence Watch**](https://cortist.com/reality-ledger/evidence-watch/) | Our approach to ongoing source monitoring and evidence updates. |
