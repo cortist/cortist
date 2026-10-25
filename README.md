@@ -6,7 +6,7 @@
 
 **AI predictions. Industry promises. Scientific evidence. What actually happened.**
 
-[Website](https://cortist.com/) · [Reality Ledger](https://cortist.com/reality-ledger/) · [Open Research & Data](https://cortist.com/open-research/) · [Hugging Face](https://huggingface.co/cortist)
+[Website](https://cortist.com/) · [Reality Ledger](https://cortist.com/reality-ledger/) · [Open Research & Data](https://cortist.com/open-research/) · [Hugging Face](https://huggingface.co/cortist) · [Public Dataset](https://huggingface.co/datasets/cortist/reality-ledger)
 
 </div>
 
@@ -34,6 +34,8 @@ Our coverage spans **AGI, superintelligence, AI safety, AI agents, jobs, medicin
 
 The Reality Ledger includes dated, machine-readable records and source references.
 
+The [**Cortist Reality Ledger dataset on Hugging Face**](https://huggingface.co/datasets/cortist/reality-ledger) makes the initial source-linked evidence snapshot available as a searchable, machine-readable dataset. Cortist.com remains the canonical home for individual records, provenance and subsequent dated revisions; the Hugging Face copy is not a live mirror.
+
 - [Browse the public JSON index](https://cortist.com/data/reality-ledger/index.json)
 - [Explore the evidence methodology](https://cortist.com/methodology/)
 - [Read the editorial standards](https://cortist.com/editorial-standards/)
@@ -46,6 +48,7 @@ The Reality Ledger includes dated, machine-readable records and source reference
 
 - **Website:** [cortist.com](https://cortist.com/)
 - **Hugging Face:** [huggingface.co/cortist](https://huggingface.co/cortist)
+- **Reality Ledger Dataset:** [huggingface.co/datasets/cortist/reality-ledger](https://huggingface.co/datasets/cortist/reality-ledger)
 - **Research and partnership inquiries:** [Contact Cortist](https://cortist.com/contact/)
 
 ---
